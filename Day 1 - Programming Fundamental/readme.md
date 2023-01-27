@@ -87,3 +87,14 @@ Step 3: if n >= 90 then print A
 	Else print F
 Step 4: end
 ```
+
+### Homework ( In this homework you only need to draw flowchart and write pseudocode of following questions )
+- Multiply 2 number by taking input
+- Find parimeter of a Triangle
+- Find Simple Intrest
+- Print counting from N to 1
+- Find Factorial of a number
+- check prime or not
+- valid triangle or not
+- printing 1 to n but only even numbers
+- print max of three numbers
