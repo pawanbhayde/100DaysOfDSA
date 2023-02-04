@@ -5,7 +5,7 @@
     - [x] [Flowchart](https://github.com/pawanbhayde/100DaysOfDSA/tree/main/Day%201%20-%20Programming%20Fundamental#flowchart)
     - [x] [Pseudocode](https://github.com/pawanbhayde/100DaysOfDSA/tree/main/Day%201%20-%20Programming%20Fundamental#pseudocode)
     
-- ### [Day 2 -  Programming Fundamental](https://github.com/pawanbhayde/100DaysOfDSA/tree/main/Day%202%20-%20Creating%20Your%20First%20Program)
+- ### [Day 2 -  Creating Your First Program](https://github.com/pawanbhayde/100DaysOfDSA/tree/main/Day%202%20-%20Creating%20Your%20First%20Program)
     - [x] [Programming Languages](https://github.com/pawanbhayde/100DaysOfDSA/tree/main/Day%202%20-%20Creating%20Your%20First%20Program#programming-languages)
     - [x] [Compilation Process](https://github.com/pawanbhayde/100DaysOfDSA/tree/main/Day%202%20-%20Creating%20Your%20First%20Program#compilation-process)
     - [x] [IDE](https://github.com/pawanbhayde/100DaysOfDSA/tree/main/Day%202%20-%20Creating%20Your%20First%20Program#ide)
