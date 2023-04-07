@@ -14,3 +14,10 @@
     - [x] [operators](https://github.com/pawanbhayde/100DaysOfDSA/tree/main/Day%202%20-%20Creating%20Your%20First%20Program#operators)
     - [x] [Conditionals](https://github.com/pawanbhayde/100DaysOfDSA/tree/main/Day%202%20-%20Creating%20Your%20First%20Program#conditionals)
     - [x] [Loop](https://github.com/pawanbhayde/100DaysOfDSA/tree/main/Day%202%20-%20Creating%20Your%20First%20Program#loop)
+
+- ### [Day 3 -  Lets Solve Some Patterns](https://github.com/pawanbhayde/100DaysOfDSA/tree/main/Day%201%20-%20Programming%20Fundamental)
+    - [x] [Solid Reactngle Pattern](https://github.com/pawanbhayde/100DaysOfDSA/blob/main/Day%203%20-%20Lets%20Solve%20Some%20Patterns/README.md#solid-reactngle-pattern)
+    - [x] [Hollow Reactngle Pattern](https://github.com/pawanbhayde/100DaysOfDSA/blob/main/Day%203%20-%20Lets%20Solve%20Some%20Patterns/README.md#hollow-reactngle-pattern)
+    - [x] [Half Pyramid Pattern](https://github.com/pawanbhayde/100DaysOfDSA/blob/main/Day%203%20-%20Lets%20Solve%20Some%20Patterns/README.md#half-pyramid-pattern)
+    - [x] [Inverted Half Pyramid Pattern](https://github.com/pawanbhayde/100DaysOfDSA/blob/main/Day%203%20-%20Lets%20Solve%20Some%20Patterns/README.md#inverted-half-pyramid-pattern)
+    - [x] [Numeric Half Pyramid Pattern](https://github.com/pawanbhayde/100DaysOfDSA/blob/main/Day%203%20-%20Lets%20Solve%20Some%20Patterns/README.md#numeric-half-pyramid-pattern)
